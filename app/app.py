@@ -218,7 +218,7 @@ class QuantumXORApp:
         """
         Render the main header of the UI.
         """
-        st.title("✨ Quantum XOR Classifier Demo ✨")
+        st.title(" ❄️ Quantum XOR Classifier Demo ❄️")
         st.markdown(
             """
             **Description**:  
